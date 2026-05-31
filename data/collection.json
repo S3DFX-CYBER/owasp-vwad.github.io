@@ -621,7 +621,7 @@
 		"author": "OWASP",
 		"description": "crAPI (Completely Ridiculous API) simulates an API-driven, microservice-based web application for vehicle owners. An intentionally vulnerable API focusing on the OWASP Top 10 for APIs for teaching, learning, and practicing API security; challenges are based on real-life vulnerabilities found in APIs of large companies.",
 		"badge": "OWASP/crAPI",
-		"stars": 1516,
+		"stars": 1517,
 		"last_contributed": "2026-05-14T19:52:26Z",
 		"categories": [
 			"free-form",
@@ -1321,7 +1321,7 @@
 		"notes": "Do not deploy to public or Internet-facing servers. ./start_game.sh (developers) or ./start_app.sh (hackers). GitHub Codespaces supported.",
 		"author": "theowni",
 		"badge": "theowni/Damn-Vulnerable-Restaurant-API-Game",
-		"stars": 909,
+		"stars": 910,
 		"last_contributed": "2026-01-03T14:11:08Z",
 		"categories": [
 			"ctf",
@@ -1351,7 +1351,7 @@
 		"description": "Intentionally vulnerable API training game: developers fix vulnerabilities interactively; ethical hackers exploit in CTF style (escalate to root). FastAPI, PostgreSQL, Docker; http://localhost:8091 (Swagger /docs, Redoc /redoc). Supports GitHub Codespaces.",
 		"notes": "Do not deploy to public or Internet-facing servers. ./start_game.sh or ./start_app.sh.",
 		"badge": "theowni/Damn-Vulnerable-RESTaurant-API-Game",
-		"stars": 909,
+		"stars": 910,
 		"last_contributed": "2026-01-03T14:11:08Z",
 		"categories": [
 			"ctf",
@@ -1435,7 +1435,7 @@
 		"description": "A PHP/MariaDB web application that is damn vulnerable. Aids security professionals to test their skills and tools in a legal environment, helps web developers understand securing web applications, and aids students and teachers to learn about web application security in a controlled environment. Practice common web vulnerabilities with various difficulty levels.",
 		"notes": "Do not deploy to Internet-facing servers. Recommended: run in a VM with NAT networking (e.g. VirtualBox, VMware).",
 		"badge": "ethicalhack3r/DVWA",
-		"stars": 13146,
+		"stars": 13147,
 		"last_contributed": "2026-05-30T10:13:16Z",
 		"categories": [
 			"free-form",
@@ -1865,7 +1865,7 @@
 		],
 		"author": "Orange-Cyberdefense",
 		"badge": "Orange-Cyberdefense/GOAD",
-		"stars": 7859,
+		"stars": 7860,
 		"last_contributed": "2026-03-12T06:57:40Z",
 		"categories": [
 			"free-form",
@@ -2654,8 +2654,8 @@
 		"notes": "Downloads: GitHub OWASP/mastg Crackmes (Android UnCrackable L1–L4, DRM; iOS UnCrackable L1–L2). Overview: https://mas.owasp.org/crackmes/.",
 		"author": "OWASP",
 		"badge": "OWASP/owasp-mstg",
-		"stars": 12926,
-		"last_contributed": "2026-05-30T19:44:36Z",
+		"stars": 12927,
+		"last_contributed": "2026-05-31T10:18:31Z",
 		"categories": [
 			"free-form",
 			"single-player"
@@ -3140,7 +3140,7 @@
 		"author": "Karan Preet Singh Sasan",
 		"badge": "SasanLabs/VulnerableApp",
 		"stars": 411,
-		"last_contributed": "2026-05-31T02:01:05Z",
+		"last_contributed": "2026-05-31T05:11:28Z",
 		"categories": [
 			"scanner-test",
 			"single-player"
@@ -3430,7 +3430,7 @@
 		],
 		"author": "insp3ctre",
 		"badge": "TheHackerDev/race-the-web",
-		"stars": 632,
+		"stars": 633,
 		"last_contributed": "2019-10-16T19:00:49Z"
 	},
 	{
@@ -3678,7 +3678,7 @@
 		"description": "Web and mobile application security training platform designed to foster and improve security awareness. Presents security risk concepts in lessons followed by challenges; utilizes the OWASP Top Ten as a challenge test bed. Real vulnerabilities with dampened impact. Supports CTF, Open Floor, and Tournament modes; highly configurable for single user, classroom, or online competition.",
 		"badge": "OWASP/SecurityShepherd",
 		"stars": 1446,
-		"last_contributed": "2026-05-30T16:02:10Z",
+		"last_contributed": "2026-05-31T08:55:44Z",
 		"categories": [
 			"ctf",
 			"guided-lessons",
@@ -4504,7 +4504,7 @@
 		"description": "A deliberately insecure application that allows developers to test vulnerabilities commonly found in Java-based applications that use common and popular open source components. De facto interactive teaching environment for web application security; lessons cover the OWASP Top 10 and more.",
 		"notes": "Default configuration binds to localhost. Disconnect from the Internet while using. For educational use only.",
 		"badge": "WebGoat/WebGoat",
-		"stars": 9137,
+		"stars": 9140,
 		"last_contributed": "2026-05-30T10:06:12Z",
 		"categories": [
 			"guided-lessons",
