@@ -66,9 +66,8 @@ def validate_url(url, context):
     try:
         print(f"Checking URL: {url} (Context: {context})")
         response = requests.head(url, allow_redirects=True, timeout=10)
-        if (response.status_code == 405) {
-            response = requests.get(url, allow_redirects=True, timeout=10, method="GET")
-        }
+        if response.status_code == 405:
+            response = requests.get(url, allow_redirects=True, timeout=10)
 
         # Check if URL was redirected
         if response.history:
