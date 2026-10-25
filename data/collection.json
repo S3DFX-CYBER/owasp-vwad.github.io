@@ -692,7 +692,7 @@
 			"single-player"
 		]
 	},
-		{
+	{
 		"url": "https://github.com/commixproject/commix-testbed",
 		"name": "commix-testbed",
 		"slug": "commix-testbed",
